@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahngeicah.usmint.ai/sitemap.xml
